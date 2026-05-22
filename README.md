@@ -1,1 +1,1 @@
-# MarineTrade - An Export Import App for Fisheries
+# MarineTrade - Export Import App for fisheries
